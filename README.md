@@ -1,1 +1,1 @@
-# Arrays_More_Exercises
+# Arrays_more_exercises
